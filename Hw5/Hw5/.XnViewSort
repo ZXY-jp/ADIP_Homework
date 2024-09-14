@@ -1,0 +1,23 @@
+XnView sort
+1(1)(2).cpp
+1(3)(4).cpp
+1(3)magnitude_baboon.raw
+1(3)magnitude_lena.raw
+1(4)return_baboon.raw
+1(4)return_lena.raw
+2(1).cpp
+2(1)GaussianLPF_10.raw
+2(1)GaussianLPF_10_magnitude.png
+2(1)GaussianLPF_20_magnitude.png
+2(1)GaussianLPF_40_magnitude.png
+2(1)GaussianLPF_40_returnImage.png
+2(3)IdealLPF_20_magnitude.png
+2(1)GaussianLPF_100_magnitude.png
+2(3)IdealLPF_40_magnitude.png
+2(3)IdealLPF_40_returnImage.png
+baboon_256.raw
+building_474x632.raw
+Hw5.vcxproj
+Hw5.vcxproj.filters
+Hw5.vcxproj.user
+lena_256.raw
